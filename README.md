@@ -1,2 +1,2 @@
-## END TO END MACHINE LEARNING PROJECT
-Accident Severity Prediciton
+## Accident Severity Prediciton
+
